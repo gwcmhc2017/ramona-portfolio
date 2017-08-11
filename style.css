@@ -1,0 +1,13 @@
+
+
+
+
+
+body{
+text-align: center;
+background-color: #DADAFF
+
+.rotate{
+  transform: rotate(90deg)
+}
+}
